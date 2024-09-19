@@ -1,0 +1,42 @@
+<html>
+ <head>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+ </head>
+ <body class="bg-gradient-to-r from-blue-100 to-green-100 h-screen">
+  <div class="container mx-auto p-4">
+   <div class="flex justify-between items-center">
+    <img alt="Cartoon black cat with wide eyes" class="w-12 h-12" height="50" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-BVbpSZmLndA7MfHIxv2ahIKS/user-IBY8IaMXtVn7IVIdZeyvjx16/img-EVlbMDnQYSKbtE8iquvNjl8f.png?st=2024-09-19T14%3A46%3A07Z&amp;se=2024-09-19T16%3A46%3A07Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-09-19T07%3A29%3A43Z&amp;ske=2024-09-20T07%3A29%3A43Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=4riObfwnsj/MvP4x/X6XVWBI8l8BQLB6BAMNkKkDCD0%3D" width="50"/>
+    <div class="flex space-x-4">
+     <a class="text-lg font-semibold text-green-900" href="#">
+      Home
+     </a>
+     <a class="text-lg font-semibold text-green-900" href="#">
+      About me
+     </a>
+    </div>
+   </div>
+   <div class="mt-8">
+    <h1 class="text-3xl font-semibold text-green-900">
+     Hello! I'm Samridhi:)
+    </h1>
+    <div class="mt-4">
+     <img alt="Cat with glasses, a bow, a laptop, and a phone" class="w-48 h-48" height="200" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-BVbpSZmLndA7MfHIxv2ahIKS/user-IBY8IaMXtVn7IVIdZeyvjx16/img-d0kVWRfpKACCfVF43AaHblL4.png?st=2024-09-19T14%3A46%3A08Z&amp;se=2024-09-19T16%3A46%3A08Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-09-19T01%3A59%3A54Z&amp;ske=2024-09-20T01%3A59%3A54Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=cz8VJI3Yoem9Ivck%2Bnz9u4meJx4bn7C1B/c%2BvQ4ksHI%3D" width="200"/>
+    </div>
+    <div class="mt-8">
+     <h2 class="text-2xl font-semibold text-green-900">
+      Stuff I'm interested in
+     </h2>
+     <ul class="list-disc list-inside text-green-900 mt-2">
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
